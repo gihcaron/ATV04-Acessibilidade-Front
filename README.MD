@@ -1,5 +1,10 @@
 # 🌐 Exercício de Acessibilidade Web - SIFURRAH
 
+## 📚 Alunas
+
+Giovanna Caron 2TDS1
+Amanda Mechi 2TDS1
+
 ## 📚 Objetivo do Exercício
 
 Este projeto contém uma versão **propositalmente problemática** de uma página web para você aprender a corrigir problemas de acessibilidade e semântica HTML. O arquivo `index.html` possui diversos erros que você deve identificar e corrigir.
