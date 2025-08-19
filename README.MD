@@ -2,8 +2,8 @@
 
 ## 📚 Alunas
 
-# Giovanna Caron 2TDS1
-# Amanda Mechi 2TDS1
+### Giovanna Caron 2TDS1
+### Amanda Mechi 2TDS1
 
 ## 📚 Objetivo do Exercício
 
